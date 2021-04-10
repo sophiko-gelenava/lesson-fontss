@@ -1,0 +1,121 @@
+.box {
+	width: 46PX;
+	height: 55PX;
+	top: 106px;
+	left: 34px;
+	background-color: #3D58A6;
+	padding-top: 13px;
+	padding-left: 8px;
+	padding-bottom:10px;
+	box-sizing: border-box;
+	font-size: 27px;
+	margin-top: 45px;
+
+	
+}
+.month { 
+color: #3D58A6;
+size: 22px;
+margin-top: 2px;
+margin-bottom: 22px;
+
+
+ }
+ .article-title { 
+  margin-bottom: 17px;
+     font-family: 'BPG DedaEna NonBlock';
+     font-family: 'ALK Life';
+     letter-spacing: 10px;
+
+  }
+  .pharagraph1 { 
+    padding-bottom: 10px; 
+    font-size: 16px;
+    width: 500px
+       font-family: 'BPG DedaEna NonBlock';
+       font-family: 'ALK Life';
+       text-indent: 50px
+    
+   }
+   
+   .logo {
+   	  display: inline-block;
+   	  margin-right: 50px;
+   	  vertical-align: middle; 
+   }
+
+   .navigation {
+   	  display: inline-block;
+   	  vertical-align: middle;
+       font-family: "BPG Nino Mtavruli Bold", sans-serif;
+       font-style: italic;
+     
+
+   }
+   .nav-li {
+   	display: inline-block;
+   	margin-right: 22px;
+   }
+   .nav-a {
+   	font-size: 22px;
+   	color: #3D58A6;
+   }
+
+
+   .photo {
+    display: inline-block;
+    vertical-align:top;
+    margin-right: 20px;
+   }
+   .pharagraph {
+    display: inline-block;
+   	width: 929px;
+   	font-size: 16px;
+   }
+
+   /*news*/
+  .container {
+  	width: 1170px;
+  	margin-right: auto; 
+  	margin-left:auto ;
+  	margin-top: 30px;
+    font-family: 'Dancing Script', cursive;
+    
+  	
+  } 
+/*section#2*/
+.left-block {
+  width: 570px;
+  background-color:#F2F2F2; }
+
+  .right-block {
+    width: 570px;
+    background-color: #F2F2F2; 
+  }
+
+
+    .divider {
+    	width: 2px;
+    	height: 27px;
+    	background-color: #363E97;
+    	display: inline-block;
+    	margin-right: 30px;
+    	margin-left: 36px ;
+    }
+    .contact-container {
+    	width: 900px;
+    	margin:0 auto;
+       }
+    .left-contact-block {
+      display: inline-block;
+    }
+
+    .right-contact-block {
+      display: inline-block;
+    }
+  .text-block {
+    font-family: 'Dancing Script', cursive;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+     
